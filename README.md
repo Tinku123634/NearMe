@@ -61,8 +61,7 @@ Execute the programs and publish them.
 <img width="1920" height="1020" alt="Screenshot 2025-12-12 102607" src="https://github.com/user-attachments/assets/ed614bb5-70b2-4ebf-95ec-08793f4c43b5" />
 <img width="1920" height="1020" alt="Screenshot 2025-12-12 102639" src="https://github.com/user-attachments/assets/51960145-20e7-48eb-b45a-a9bc9fc4bfba" />
 <img width="1920" height="1020" alt="Screenshot 2025-12-12 102656" src="https://github.com/user-attachments/assets/264895a5-a25d-41b5-bc32-a08786b03a8b" />
-<img width="1920" height="1020" alt="Screenshot 2025-12-12 102729" src="https://github.com/user-attachments/assets/a40994c6-28c6-49e7-b449-66f572948171" />
-
+<img width="1920" height="1020" alt="Screenshot 2025-12-12 113027" src="https://github.com/user-attachments/assets/92ae49ea-2c46-4a55-a651-0b609d5f3667" />
 
 
 
